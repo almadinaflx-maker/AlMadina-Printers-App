@@ -1,0 +1,8 @@
+APK بنانے کا آسان طریقہ:
+1) GitHub پر ایک نیا repository بنائیں۔
+2) اس ZIP کو Extract کریں اور AlMadinaPrintersApp فولڈر کی تمام فائلیں repository میں upload کریں۔
+3) اوپر Actions کھولیں۔
+4) “Build Al-Madina Printers APK” منتخب کریں اور Run workflow دبائیں۔
+5) Build مکمل ہونے پر اسی workflow کے نیچے Artifacts میں “Al-Madina-Printers-APK” ملے گا۔ اسے download کریں۔
+6) ZIP کھول کر app-debug.apk پر tap کریں اور Install کریں۔
+نوٹ: پہلی build میں چند منٹ لگ سکتے ہیں۔
